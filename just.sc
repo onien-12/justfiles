@@ -1,4 +1,4 @@
-open youtube.com
+open example.com
 -randomint random 100 500
 
 <js content>
@@ -11,4 +11,4 @@ wait 5
 console.log(random(1, 100));
 </js>
 
-open youtube.com
+open github.com
